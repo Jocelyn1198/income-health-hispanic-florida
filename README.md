@@ -23,4 +23,4 @@ Common health issues like diabetes and high blood pressure were more prevalent i
 Statistical tests confirmed the significance of income-health disparities
 
 Presentation
-[View the full presentation (PDF)](How Income Levels Affect Health Outcomes in the Hispanic Population in Florida.pdf)
+[View the full presentation (PDF)]([hispanic_health_presentation.pd)
